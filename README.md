@@ -5,7 +5,8 @@
 const Person = {
   name: 'Jorge Ricardo Soares',
   dateOfBirth: '05/11/1996',
-  interests: ['games', 'The Witcher saga', 'algorithms', 'crime movies']
+  interests: ['games', 'The Witcher saga', 'algorithms', 'crime movies'],
+  skills: ['Javascript', 'Python', 'Node.JS', Web Development', 'React', React Native']
 }
 ```
 - :white_check_mark: FullStack Developer in progress
