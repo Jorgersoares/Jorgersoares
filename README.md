@@ -6,7 +6,7 @@ const jorge = {
   name: 'Jorge Ricardo Soares',
   dateOfBirth: '05/11/1996',
   interests: ['games', 'The Witcher saga', 'algorithms', 'crime movies'],
-  skills: ['Python', 'Node.JS', 'Web Development(HTML,CSS,JS)', 
+  skills: ['Python', 'Node.JS', 'Web Development(HTML,CSS,JS)', 'Django',
   'React', 'React Native', 'Angular', 'Express.JS', 'SQL', 'Relational Databases',
   'Non Relational Databases', 'REST API']
 }
