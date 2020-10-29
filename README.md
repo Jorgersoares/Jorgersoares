@@ -8,7 +8,7 @@ const jorge = {
   interests: ['games', 'The Witcher saga', 'algorithms', 'crime movies'],
   skills: ['Python', 'Node.JS', 'Web Development(HTML,CSS,JS)', 'Django',
   'React', 'React Native', 'Angular', 'Express.JS', 'SQL', 'Relational Databases',
-  'Non Relational Databases', 'REST API']
+  'Non Relational Databases', 'REST API', Java, JavaEE, Spring]
 }
 ```
 - :white_check_mark: FullStack Developer in progress
