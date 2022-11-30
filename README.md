@@ -4,7 +4,7 @@
 ```javascript
 const jorge = {
   name: 'Jorge Ricardo Soares',
-  role: 'Fullstack developer'
+  role: 'Fullstack developer',
   dateOfBirth: '05/11/1996',
   interests: ['games', 'The Witcher saga', 'algorithms', 'crime movies'],
   skills: ['Java', 'JavaEE', 'Spring', 'Python', 'Node.JS', 'Express.JS', 'Web Development (HTML,CSS,JS)', 'Angular', 'SQL', 'Relational Databases',
