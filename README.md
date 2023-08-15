@@ -3,7 +3,7 @@
 #### About me
 ```javascript
 const jorge = {
-  name: 'Jorge Ricardo Soares',
+  name: 'Jorge Souza',
   role: 'Fullstack developer',
   dateOfBirth: '05/11/1996',
   interests: ['games', 'The Witcher saga', 'algorithms', 'crime movies'],
